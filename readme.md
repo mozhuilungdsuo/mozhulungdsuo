@@ -1,5 +1,8 @@
 # 💫 About Me:
-🌱 I’m currently learning flutter and Next.js<br>💬 Ask me about anything?<br>⚡ Fun fact
+🌱 I’m currently learning flutter and Next.js
+<br>💬 Ask me about anything?<br>
+⚡ Fun fact about me: I produce music,play the guitar, keyboard and definitely love to code.<br>
+
 
 
 ## 🌐 Socials:
