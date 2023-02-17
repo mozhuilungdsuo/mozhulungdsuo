@@ -1,9 +1,14 @@
+
+
 # 💫 About Me:
 🌱 I’m currently learning flutter and Next.js
 <br>💬 Ask me about anything?<br>
 ⚡ Fun fact about me: I produce music,play the guitar, keyboard and definitely love to code.<br>
 
+<div align="center">
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nerdy_naga) 
@@ -18,10 +23,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mozhulungdsuo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mozhulungdsuo&icon=2&color=1)](https://visitcount.itsvg.in)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
